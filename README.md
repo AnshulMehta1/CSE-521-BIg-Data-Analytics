@@ -62,3 +62,7 @@
     
     
 ```
+  <h2> The Notebook is split into 3 Parts </h2>
+  1. In-depth EDA with PySpark SQL
+  2. ALS Recommendations from the PySpark ML
+  3. Classification Algorithms on the Dataset.
